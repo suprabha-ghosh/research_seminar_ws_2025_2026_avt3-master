@@ -1,0 +1,101 @@
+filename,ground_truth,prediction,correct
+_Field Caramuru 04_BM-147_1_DSCF2269.JPG,Empty,Empty,True
+_Field Caramuru 04_BM-189_1_DSCF0020.JPG,Insects,Insects,True
+_Field Caramuru 06_BM-118_1_DSCF0127.JPG,Insects,Insects,True
+_Field Caramuru 06_BM-121_1_DSCF0194.JPG,Insects,Insects,True
+_Field Caramuru 06_BM-224_2_DSCF0182.JPG,Empty,Animals,False
+_Field Caramuru 06_BM-234_1_DSCF2738.JPG,Empty,Empty,True
+_Field Caramuru 04_BM-163_2_DSCF0238.JPG,Insects,Insects,True
+_Field Caramuru 06_BM-118_1_DSCF0592.JPG,Insects,Insects,True
+_Field Caramuru 06_BM-224_2_DSCF0050.JPG,Animals,Animals,True
+_Field Caramuru 06_BM-231_1_DSCF0085.JPG,Animals,Animals,True
+_Field Favali 02_BM-086_3_DSCF0108.JPG,Animals,Animals,True
+_Field Jamaica 01_BM-130_1_DSCF2844.JPG,Empty,Empty,True
+_Field Favali 02_BM-158_1_DSCF1472.JPG,Insects,Insects,True
+_Field Favali 02_BM-156_1_DSCF1656.JPG,Insects,Insects,True
+_Field Caramuru 06_BM-118_1_DSCF0809.JPG,Insects,Insects,True
+_Field Caramuru 06_BM-224_1_DSCF0022.JPG,Insects,Animals,False
+_Field Favali 02_BM-079_1_DSCF0020.JPG,Animals,Insects,False
+_Field Favali 02_BM-086_3_DSCF0902.JPG,Insects,Insects,True
+_Field Jamaica 01_BM-125_1_DSCF2688.JPG,Empty,Empty,True
+_Field Jamaica 01_BM-130_1_DSCF2261.JPG,Empty,Empty,True
+_Field Favali 02_BM-158_1_DSCF0724.JPG,Insects,Insects,True
+_Field Favali 02_BM-158_1_DSCF0099.JPG,Insects,Insects,True
+_Field Favali 02_BM-156_1_DSCF0159.JPG,Insects,Insects,True
+_Field Caramuru 04_BM-149_1_DSCF1505.JPG,Empty,Empty,True
+_Field Favali 02_BM-149_1_DSCF2415.JPG,Insects,Insects,True
+_Field Caramuru 05_BM-095_1_DSCF0035.JPG,Insects,Animals,False
+_Field Caramuru 04_BM-163_2_DSCF0204.JPG,Insects,Insects,True
+_Field Favali 02_BM-086_2_DSCF0086.JPG,Insects,Insects,True
+_Field Cabeceira da Ferradura_BM-032_1_DSCF0046.JPG,Animals,Animals,True
+_Field Caramuru 04_BM-150_1_DSCF2155.JPG,Empty,Insects,False
+_Field Caramuru 06_BM-225_1_DSCF0336.JPG,Animals,Animals,True
+_Field Caramuru 06_BM-090_1_DSCF0780.JPG,Empty,Empty,True
+_Field Caramuru 06_BM-118_1_DSCF0524.JPG,Insects,Insects,True
+_Field Pontal 2_BM-033_1_DSCF0056.JPG,Animals,Animals,True
+_Field Jamaica 01_BM-124_1_DSCF1004.JPG,Empty,Empty,True
+_Field Kobayashi 01_BM-157_1_DSCF2764.JPG,Empty,Empty,True
+_Field Kayabi 4_BM-029_1_DSCF0088.JPG,Animals,Animals,True
+_Field Caramuru 03_BM-167_1_DSCF0129.JPG,Animals,Animals,True
+_Field Santa Terezinha 1_BM-029_1_DSCF0275.JPG,Animals,Animals,True
+_Field Santa Isabel 2_BM-204_1_DSCF0319.JPG,Animals,Animals,True
+_Field Santa Isabel 2_BM-147_1_DSCF0045.JPG,Animals,Animals,True
+_Field Santa Isabel 2_BM-130_1_DSCF0014.JPG,Animals,Animals,True
+_Field Pontal 3_BM-021_1_DSCF0689.JPG,Empty,Empty,True
+_Field Sao Paulo 01_BM-175_2_DSCF0051.JPG,Empty,Animals,False
+_Field Santa Isabel 2_BM-204_1_DSCF0278.JPG,Animals,Animals,True
+_Field Pontal 2_BM-021_1_DSCF0318.JPG,Animals,Animals,True
+_Field Jamaica 01_BM-125_1_DSCF3155.JPG,Empty,Empty,True
+_Field Lina 09_BM-253_1_DSCF4458.JPG,Animals,Animals,True
+_Field Lina 09_BM-253_1_DSCF2754.JPG,Animals,Animals,True
+_Field Rovina 02_BM-202_1_DSCF0080.JPG,Animals,Animals,True
+_Field Caramuru 04_BM-150_1_DSCF2646.JPG,Insects,Insects,True
+_Field Caramuru 06_BM-219_1_DSCF0130.JPG,Animals,Animals,True
+_Field Favali 02_BM-086_3_DSCF1198.JPG,Animals,Insects,False
+_Field Jamaica 01_BM-222_1_DSCF5318.JPG,Empty,Empty,True
+_Field Sao Paulo 01_BM-175_1_DSCF0033.JPG,Animals,Insects,False
+_Field Sao Caetano 2_BM-158_1_DSCF0044.JPG,Empty,Empty,True
+_Field Sao Caetano 2_BM-139_1_DSCF4260.JPG,Insects,Empty,False
+_Field Petrovina 1_BM-135_1_DSCF0108.JPG,Animals,Animals,True
+_Field Jamaica 01_BM-209_2_DSCF0144.JPG,Insects,Insects,True
+_Field Kobayashi 01_BM-157_1_DSCF0578.JPG,Empty,Empty,True
+_Field Nossa S. Salete 1_BM-039_1_DSCF0057.JPG,Animals,Animals,True
+_Field Pontal 2_BM-024_1_DSCF1809.JPG,Insects,Empty,False
+_Field Pontal 2_BM-024_1_DSCF2084.JPG,Empty,Empty,True
+_Field Petrovina 1_BM-008_1_DSCF0033.JPG,Animals,Animals,True
+_Field Petrovina 1_BM-135_1_DSCF0326.JPG,Animals,Animals,True
+_Field Jamaica 01_BM-125_1_DSCF3193.JPG,Empty,Empty,True
+_Field Jamaica 02_BM-176_1_DSCF0353.JPG,Insects,Insects,True
+_Field Lina 09_BM-253_1_DSCF4322.JPG,Animals,Animals,True
+_Field Petrovina 1_BM-001_1_DSCF0193.JPG,Animals,Animals,True
+_Field Santa Isabel 2_BM-130_1_DSCF0215.JPG,Empty,Animals,False
+_Field Santa Isabel 2_BM-202_1_DSCF0120.JPG,Animals,Animals,True
+_Field Sao Caetano 2_BM-010_1_DSCF0738.JPG,Insects,Empty,False
+_Field Kayabi 5_BM-018_1_DSCF1548.JPG,Empty,Empty,True
+_Field Rovina 02_BM-090_2_DSCF0650.JPG,Insects,Insects,True
+_Field Caramuru 03_BM-122_1_DSCF0027.JPG,Empty,Animals,False
+_Field Cabeceira da Ferradura_BM-032_1_DSCF0010.JPG,Animals,Animals,True
+_Field Caramuru 06_BM-118_1_DSCF0449.JPG,Insects,Insects,True
+_Field Jamaica 02_BM-176_2_DSCF0133.JPG,Insects,Insects,True
+_Field Kayabi 5_BM-031_1_DSCF0285.JPG,Animals,Animals,True
+_Field Caramuru 06_BM-225_1_DSCF0195.JPG,Animals,Animals,True
+_Field Pontal 3_BM-038_1_DSCF0131.JPG,Animals,Animals,True
+_Field Pontal 2_BM-033_1_DSCF0080.JPG,Animals,Animals,True
+_Field Petrovina 1_BM-008_1_DSCF0065.JPG,Animals,Animals,True
+_Field Pontal 2_BM-013_2_DSCF0012.JPG,Animals,Animals,True
+_Field Pontal 2_BM-013_1_DSCF0182.JPG,Animals,Animals,True
+_Field Pontal 2_BM-033_2_DSCF0166.JPG,Animals,Animals,True
+_Field Petrovina 4_BM-242_1_DSCF0040.JPG,Animals,Animals,True
+_Field Rovina 02_BM-093_2_DSCF0100.JPG,Animals,Animals,True
+_Field Caramuru 06_BM-112_1_DSCF0051.JPG,Insects,Insects,True
+_Field Pontal 2_BM-027_1_DSCF0042.JPG,Animals,Animals,True
+_Field Kobayashi 01_BM-131_1_DSCF0042.JPG,Animals,Animals,True
+_Field Caramuru 06_BM-225_1_DSCF0213.JPG,Animals,Animals,True
+_Field Caramuru 06_BM-118_1_DSCF0395.JPG,Insects,Insects,True
+_Field Favali 02_BM-085_1_DSCF0271.JPG,Insects,Insects,True
+_Field Kayabi 5_BM-030_1_DSCF0106.JPG,Animals,Animals,True
+_Field Lina 08_BM-232_1_DSCF0078.JPG,Animals,Insects,False
+_Field Moacin_BM-103_2_DSCF0118.JPG,Animals,Animals,True
+_Field Pontal 2_BM-013_1_DSCF0268.JPG,Animals,Animals,True
+_Field Cabeceira da Ferradura_BM-032_1_DSCF0016.JPG,Animals,Animals,True
+_Field Petrovina 4_BM-258_1_DSCF0043.JPG,Animals,Empty,False
